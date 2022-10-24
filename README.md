@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
 
 
-# <a href="https://youtube.com/UmutBayraktarYT">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://facebook.com/umutxyp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/umutxyp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://blog.umut.live"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> <a href="https://twitch.com/umutyzx"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a> 
+#
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://facebook.com/mr.paqoy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/mr.paqoy">
 
 
 ## ABOUT V13.7 UPDATE / news: 2022, 2 OCTOBER
@@ -55,7 +55,7 @@
 3d, bassboost, echo, karaoke, nightcore, vaporwave, flanger, gate, haas, reverse, surround, mcompand, phaser, tremolo, earwax
 
 ## Bot Setup
-[Click here for a setup video](https://youtu.be/mDKQJeWWvss), but these instructions are up to date so make sure to follow them if the video is different.
+[Click here for a setup video](), but these instructions are up to date so make sure to follow them if the video is different.
 
 - [Install node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
 - Clone this repository or download as a zip and extract the contents.
@@ -70,7 +70,7 @@
 ![image](https://user-images.githubusercontent.com/4060573/181926061-310e817a-97c5-48d8-adce-77a505c36336.png)
 
 ## Support/Contributing
-- [Click here to join the Discord](https://discord.gg/Fy4WmSThRZ)
+- [Click here to join the Discord](https://discord.gg/)
 
 ### Links
 
